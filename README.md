@@ -1,0 +1,2 @@
+# manualPaymentReceipt
+Manual recipt
